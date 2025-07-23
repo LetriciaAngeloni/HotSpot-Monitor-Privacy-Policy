@@ -30,17 +30,9 @@ HotSpot Monitor does not use any third-party analytics, advertising, or tracking
 
 We do not share, sell, or transmit any data about you or your usage to third parties. There is no data to share because we don't collect any.
 
-## Children's Privacy
-
-HotSpot Monitor does not collect any data from anyone, including children under 13. The app is safe for all ages to use.
-
 ## Changes to Privacy Policy
 
 If we make any changes to this privacy policy, we will update this page. Since HotSpot Monitor doesn't collect data about you, we have no way to notify you directly of changes.
-
-## App Store and Apple
-
-When you download HotSpot Monitor from the Mac App Store, Apple may collect information about your download in accordance with their own privacy policy. We do not have access to this information.
 
 ## Contact Information
 
