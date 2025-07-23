@@ -1,1 +1,1 @@
-# Flow-Meter-Privacy-Policy
+# HotSpot Monitor - Privacy Policy
